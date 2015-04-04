@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wakemeup/Wakemeup.iml" filepath="$PROJECT_DIR$/Wakemeup/Wakemeup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WakemeupProject.iml" filepath="$PROJECT_DIR$/WakemeupProject.iml" />
+    </modules>
+  </component>
+</project>
+
